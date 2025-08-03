@@ -1,7 +1,7 @@
 # 🧠🎯 AI Object Detection API
 
 API de **détection d'objets** en temps réel 🕵️‍♂️ basée sur le modèle **YOLOv11 (You Only Look Once)**.
-
+> 🔗 **Modèle utilisé pour référence** : [github.com/jvondermarck/ai-object-detection](https://github.com/jvondermarck/ai-object-detection)
 ---
 
 ## ✨ Fonctionnalités

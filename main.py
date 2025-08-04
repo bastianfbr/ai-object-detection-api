@@ -18,3 +18,8 @@ Le code source du projet d'entraînement du model est disponible sur GitHub :
 )
 
 app.include_router(endpoints.router)
+
+if __name__ == "__main__":
+    import uvicorn
+
+    uvicorn.run(app, host="127.0.0.1", port=8000)

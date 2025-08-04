@@ -45,7 +45,7 @@ API de **détection d'objets** en temps réel 🕵️‍♂️ basée sur le mod
 Lancez le serveur avec :
 
 ```bash
-uvicorn main:app --reload
+python main.py
 ```
 
 📍 API disponible à : `http://127.0.0.1:8000/`

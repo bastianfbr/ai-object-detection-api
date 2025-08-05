@@ -3,6 +3,7 @@ mypy
 opencv-python
 pillow
 pre-commit
+python-multipart
 ruff
 ultralytics
 uvicorn
